@@ -5,10 +5,10 @@ Where to find me 🤙
 </h3>
 <div align="center">
 
-[<img height="25" src = "https://img.shields.io/badge/linkedin-FFB740.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />][LinkedIn]
-[<img height="25" src = "https://img.shields.io/badge/Youtube-FFB740.svg?&style=for-the-badge&logo=Youtube&logoColor=black">][Youtube]
-[<img height="25" src = "https://img.shields.io/badge/Facebook-FFB740.svg?&style=for-the-badge&logo=facebook&logoColor=black">][Facebook]
-[<img height="25" src = "https://img.shields.io/badge/Whatsapp-FFB740.svg?&style=for-the-badge&logo=WhatsApp&logoColor=black">][WhatsApp]
+[<img height="25" src = "https://img.shields.io/badge/linkedin-FBF46D.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />][LinkedIn]
+[<img height="25" src = "https://img.shields.io/badge/Youtube-FFCCD2.svg?&style=for-the-badge&logo=Youtube&logoColor=black">][Youtube]
+[<img height="25" src = "https://img.shields.io/badge/Facebook-CA965C.svg?&style=for-the-badge&logo=facebook&logoColor=black">][Facebook]
+[<img height="25" src = "https://img.shields.io/badge/Whatsapp-A3DA8D.svg?&style=for-the-badge&logo=WhatsApp&logoColor=black">][WhatsApp]
 [<img height="25" src = "https://img.shields.io/badge/twitter-FFB740.svg?&style=for-the-badge&logo=twitter&logoColor=black">][Twitter]
 [<img height="25" src = "https://img.shields.io/badge/instragram-FFB740.svg?&style=for-the-badge&logo=instagram&logoColor=black">][Instragram]
 [<img height="25" src = "https://img.shields.io/badge/tumblr-FFB740.svg?&style=for-the-badge&logo=tumblr&logoColor=black">][Tumblr]
