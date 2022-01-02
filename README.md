@@ -5,17 +5,17 @@ Where to find me 🤙
 </h3>
 <div align="center">
 
-[<img height="25" src = "https://img.shields.io/badge/linkedin-FFB740.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="25" src = "https://img.shields.io/badge/Youtube-white.svg?&style=for-the-badge&logo=Youtube&logoColor=black">][Youtube]
-[<img height="25" src = "https://img.shields.io/badge/Facebook-white.svg?&style=for-the-badge&logo=facebook&logoColor=black">][Facebook]
-[<img height="25" src = "https://img.shields.io/badge/Whatsapp-white.svg?&style=for-the-badge&logo=WhatsApp&logoColor=black">][WhatsApp]
-[<img height="25" src = "https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=black">][Twitter]
-[<img height="25" src = "https://img.shields.io/badge/instragram-white.svg?&style=for-the-badge&logo=instagram&logoColor=black">][Instragram]
-[<img height="25" src = "https://img.shields.io/badge/tumblr-white.svg?&style=for-the-badge&logo=tumblr&logoColor=black">][Tumblr]
-[<img height="25" src = "https://img.shields.io/badge/reddit-white.svg?&style=for-the-badge&logo=reddit&logoColor=black">][Reddit]
-[<img height="25" src = "https://img.shields.io/badge/telegram-white.svg?&style=for-the-badge&logo=telegram&logoColor=black">][Telegram]
-[<img height="25" src = "https://img.shields.io/badge/DEV%20Community-white.svg?&style=for-the-badge&logo=dev&logoColor=black">][Dev_Community]
-[<img height="25" src = "https://img.shields.io/badge/Medium-white.svg?&style=for-the-badge&logo=medium&logoColor=black">][Medium]
+[<img height="25" src = "https://img.shields.io/badge/linkedin-FFB740.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />][LinkedIn]
+[<img height="25" src = "https://img.shields.io/badge/Youtube-FFB740.svg?&style=for-the-badge&logo=Youtube&logoColor=black">][Youtube]
+[<img height="25" src = "https://img.shields.io/badge/Facebook-FFB740.svg?&style=for-the-badge&logo=facebook&logoColor=black">][Facebook]
+[<img height="25" src = "https://img.shields.io/badge/Whatsapp-FFB740.svg?&style=for-the-badge&logo=WhatsApp&logoColor=black">][WhatsApp]
+[<img height="25" src = "https://img.shields.io/badge/twitter-FFB740.svg?&style=for-the-badge&logo=twitter&logoColor=black">][Twitter]
+[<img height="25" src = "https://img.shields.io/badge/instragram-FFB740.svg?&style=for-the-badge&logo=instagram&logoColor=black">][Instragram]
+[<img height="25" src = "https://img.shields.io/badge/tumblr-FFB740.svg?&style=for-the-badge&logo=tumblr&logoColor=black">][Tumblr]
+[<img height="25" src = "https://img.shields.io/badge/reddit-FFB740.svg?&style=for-the-badge&logo=reddit&logoColor=black">][Reddit]
+[<img height="25" src = "https://img.shields.io/badge/telegram-FFB740.svg?&style=for-the-badge&logo=telegram&logoColor=black">][Telegram]
+[<img height="25" src = "https://img.shields.io/badge/DEV%20Community-FFB740.svg?&style=for-the-badge&logo=dev&logoColor=black">][Dev_Community]
+[<img height="25" src = "https://img.shields.io/badge/Medium-FFB740.svg?&style=for-the-badge&logo=medium&logoColor=black">][Medium]
 
 </div>
 
