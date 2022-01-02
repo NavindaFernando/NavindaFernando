@@ -13,9 +13,9 @@ Where to find me 🤙
 [<img height="25" src = "https://img.shields.io/badge/instragram-D5D5D5.svg?&style=for-the-badge&logo=instagram&logoColor=black">][Instragram]
 [<img height="25" src = "https://img.shields.io/badge/tumblr-FFC286.svg?&style=for-the-badge&logo=tumblr&logoColor=black">][Tumblr]
 [<img height="25" src = "https://img.shields.io/badge/reddit-F4BEEE.svg?&style=for-the-badge&logo=reddit&logoColor=black">][Reddit]
-[<img height="25" src = "https://img.shields.io/badge/telegram-FFB740.svg?&style=for-the-badge&logo=telegram&logoColor=black">][Telegram]
-[<img height="25" src = "https://img.shields.io/badge/DEV%20Community-FFB740.svg?&style=for-the-badge&logo=dev&logoColor=black">][Dev_Community]
-[<img height="25" src = "https://img.shields.io/badge/Medium-FFB740.svg?&style=for-the-badge&logo=medium&logoColor=black">][Medium]
+[<img height="25" src = "https://img.shields.io/badge/telegram-FF7272.svg?&style=for-the-badge&logo=telegram&logoColor=black">][Telegram]
+[<img height="25" src = "https://img.shields.io/badge/DEV%20Community-D99879.svg?&style=for-the-badge&logo=dev&logoColor=black">][Dev_Community]
+[<img height="25" src = "https://img.shields.io/badge/Medium-B7E778.svg?&style=for-the-badge&logo=medium&logoColor=black">][Medium]
 
 </div>
 
