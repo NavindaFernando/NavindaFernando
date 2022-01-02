@@ -5,7 +5,7 @@ Where to find me 🤙
 </h3>
 <div align="center">
 
-[<img height="25" src = "https://img.shields.io/badge/linkedin-FBE6C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="25" src = "https://img.shields.io/badge/linkedin-FFB740.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="25" src = "https://img.shields.io/badge/Youtube-white.svg?&style=for-the-badge&logo=Youtube&logoColor=black">][Youtube]
 [<img height="25" src = "https://img.shields.io/badge/Facebook-white.svg?&style=for-the-badge&logo=facebook&logoColor=black">][Facebook]
 [<img height="25" src = "https://img.shields.io/badge/Whatsapp-white.svg?&style=for-the-badge&logo=WhatsApp&logoColor=black">][WhatsApp]
