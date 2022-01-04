@@ -19,12 +19,12 @@ Where to find me 🤙
 ***
 
 <h3 align="center">
-skills
+Skills
 </h3>
 
-<h3 align="center">
+<h4 align="center">
 Languages
-</h3>
+</h4>
 
 <div align="center">
   <img height="20" src = "https://img.shields.io/badge/Java-white.svg?">
@@ -37,8 +37,7 @@ Languages
   
   <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
-
-  <img height="20" src = "https://img.shields.io/badge/Android-white.svg?">  
+ 
   <img height="20" src = "https://img.shields.io/badge/React native-white.svg?">  
 
   <img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
@@ -47,9 +46,9 @@ Languages
   <img height="20" src = "https://img.shields.io/badge/nodejs-white.svg?">  
 </div>
 
-<h3 align="center">
+<h4 align="center">
 Design environments
-</h3>
+</h4>
 
 <div align="center">
   <img height="20" src = "https://img.shields.io/badge/Adobe Photoshop-white.svg?">  
@@ -59,16 +58,26 @@ Design environments
   <img height="20" src = "https://img.shields.io/badge/Figma-white.svg?">
 </div>
 
-<h3 align="center">
+<h4 align="center">
 Dev environments
-</h3>
+</h4>
 
 <div align="center">
   <img height="20" src = "https://img.shields.io/badge/Intellij idea-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/NetBeans-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Geany-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Visual Studio-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Android Studio-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Notepad++-white.svg?">
+</div>
+
+<h4 align="center">
+OS
+</h4>
+
+<div align="center">
+  <img height="20" src = "https://img.shields.io/badge/Linux-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/Windows-white.svg?">
 </div>
 
 ***
