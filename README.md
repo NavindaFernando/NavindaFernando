@@ -22,16 +22,16 @@ Where to find me 🤙
 Programming skills
 </h3>
 
-<h6 align="center">
+<h5 align="center">
 Languages
-</h6>
+</h5>
 
 <div align="center">
 
   <img height="30" src = "https://img.shields.io/badge/Java-white.svg?&style=for-the-badge&logo=java&logoColor=black">
   <img height="30" src = "https://img.shields.io/badge/Python-white.svg?&style=for-the-badge&logo=python&logoColor=black">
   <img height="20" src = "https://img.shields.io/badge/Javascript-black.svg?">
-  <img height="20" src = "https://img.shields.io/badge/HTML-EAEAEA.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/HTML-white.svg?">  
 
 </div>
 
