@@ -45,9 +45,9 @@ Programming skills
   <img height="20" src = "https://img.shields.io/badge/nodejs-white.svg?">  
 </div>
 
-<h5 align="center">
-Design
-</h5>
+<h3 align="center">
+Design skills
+</h3>
 
 <div align="center">
   <img height="20" src = "https://img.shields.io/badge/Adobe Photoshop-white.svg?">  
