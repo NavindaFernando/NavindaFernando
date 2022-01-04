@@ -3,9 +3,10 @@
 <h3 align="center">
 Where to find me 🤙
 </h3>
+
 <div align="center">
 
-<img height="25" src = "https://img.shields.io/badge/linkedin-white.svg?&style=for-the-badge&logo=linkedin&logoColor=black">
+<img height="25" src = "https://img.shields.io/badge/java-white.svg?&style=for-the-badge&logo=linkedin&logoColor=black">
 <img height="25" src = "https://img.shields.io/badge/Youtube-white.svg?&style=for-the-badge&logo=Youtube&logoColor=black">
 <img height="25" src = "https://img.shields.io/badge/Facebook-white.svg?&style=for-the-badge&logo=facebook&logoColor=black">
 <img height="25" src = "https://img.shields.io/badge/Whatsapp-white.svg?&style=for-the-badge&logo=WhatsApp&logoColor=black">
@@ -16,5 +17,23 @@ Where to find me 🤙
 </div>
 
 ***
+
+<h3 align="center">
+Programming skills
+</h3>
+
+<h6 align="center">
+Programming Languages
+</h6>
+
+<div align="center">
+
+  <img height="35" src = "https://img.shields.io/badge/?&style=for-the-badge&logo=java&logoColor=black">
+
+</div>
+
+***
+
 ![GitHub metrics](https://metrics.lecoq.io/NavindaFernando)
+
 ***
