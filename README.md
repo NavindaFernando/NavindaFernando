@@ -23,20 +23,6 @@ Programming skills
 </h3>
 
 <div align="center">
-  <img height="20" src = "https://img.shields.io/badge/nodejs-white.svg?">  
-
-  <img height="20" src = "https://img.shields.io/badge/Android-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/React native-white.svg?">  
-
-  <img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/MangoDB-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/HQL-white.svg?">
-
-  <img height="20" src = "https://img.shields.io/badge/HTML-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/CSS-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
-
   <img height="20" src = "https://img.shields.io/badge/Java-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Python-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Javascript-white.svg?">
@@ -44,6 +30,19 @@ Programming skills
   <img height="20" src = "https://img.shields.io/badge/CSS-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/C-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/C++-white.svg?">
+  
+  <img height="20" src = "https://img.shields.io/badge/HTML-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/CSS-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
+
+  <img height="20" src = "https://img.shields.io/badge/Android-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/React native-white.svg?">  
+
+  <img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/MangoDB-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/HQL-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/nodejs-white.svg?">  
 </div>
 
 <h5 align="center">
