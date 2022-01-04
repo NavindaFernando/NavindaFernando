@@ -6,7 +6,7 @@ Where to find me 🤙
 
 <div align="center">
 
-<img height="25" src = "https://img.shields.io/badge/java-white.svg?&style=for-the-badge&logo=linkedin&logoColor=black">
+<img height="25" src = "https://img.shields.io/badge/linkedin-white.svg?&style=for-the-badge&logo=linkedin&logoColor=black">
 <img height="25" src = "https://img.shields.io/badge/Youtube-white.svg?&style=for-the-badge&logo=Youtube&logoColor=black">
 <img height="25" src = "https://img.shields.io/badge/Facebook-white.svg?&style=for-the-badge&logo=facebook&logoColor=black">
 <img height="25" src = "https://img.shields.io/badge/Whatsapp-white.svg?&style=for-the-badge&logo=WhatsApp&logoColor=black">
@@ -23,12 +23,15 @@ Programming skills
 </h3>
 
 <h6 align="center">
-Programming Languages
+Languages
 </h6>
 
 <div align="center">
 
-  <img height="35" src = "https://img.shields.io/badge/?&style=for-the-badge&logo=java&logoColor=black">
+  <img height="30" src = "https://img.shields.io/badge/Java-white.svg?&style=for-the-badge&logo=java&logoColor=black">
+  <img height="30" src = "https://img.shields.io/badge/Python-white.svg?&style=for-the-badge&logo=python&logoColor=black">
+  <img height="20" src = "https://img.shields.io/badge/Javascript-white.svg?">
+  <img height="30" src = "https://img.shields.io/badge/HTML-white.svg?&style=for-the-badge&logo=html&logoColor=black">  
 
 </div>
 
