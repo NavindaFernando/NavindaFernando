@@ -32,6 +32,9 @@ Languages
   <img height="20" src = "https://img.shields.io/badge/Javascript-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/HTML-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/CSS-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/C-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/C++-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/C#-white.svg?">
 </div>
 
 ***
