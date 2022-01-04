@@ -19,7 +19,11 @@ Where to find me 🤙
 ***
 
 <h3 align="center">
-Programming skills
+skills
+</h3>
+
+<h3 align="center">
+Languages
 </h3>
 
 <div align="center">
@@ -31,8 +35,6 @@ Programming skills
   <img height="20" src = "https://img.shields.io/badge/C-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/C++-white.svg?">
   
-  <img height="20" src = "https://img.shields.io/badge/HTML-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/CSS-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
 
@@ -46,7 +48,7 @@ Programming skills
 </div>
 
 <h3 align="center">
-Design skills
+Design environments
 </h3>
 
 <div align="center">
@@ -55,6 +57,18 @@ Design skills
   <img height="20" src = "https://img.shields.io/badge/Adobe Premiere Pro-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Adobe After Effects-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Figma-white.svg?">
+</div>
+
+<h3 align="center">
+Dev environments
+</h3>
+
+<div align="center">
+  <img height="20" src = "https://img.shields.io/badge/Intellij idea-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/NetBeans-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Geany-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Visual Studio-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Notepad++-white.svg?">
 </div>
 
 ***
