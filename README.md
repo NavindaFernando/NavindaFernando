@@ -23,7 +23,7 @@ Programming skills
 </h3>
 
 <h5 align="center">
-Languages
+Programming Languages
 </h5>
 
 <div align="center">
@@ -36,8 +36,56 @@ Languages
   <img height="20" src = "https://img.shields.io/badge/C++-white.svg?">
 </div>
 
+<h5 align="center">
+Frontend Dev
+</h5>
+
+<div align="center">
+  <img height="20" src = "https://img.shields.io/badge/HTML-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/CSS-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
+</div>
+
+<h5 align="center">
+Backend Dev
+</h5>
+
+<div align="center">
+  <img height="20" src = "https://img.shields.io/badge/nodejs-white.svg?">  
+</div>
+
+<h5 align="center">
+Mobile Dev
+</h5>
+
+<div align="center">
+  <img height="20" src = "https://img.shields.io/badge/Android-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/React native-white.svg?">  
+</div>
+
+<h5 align="center">
+Database
+</h5>
+
+<div align="center">
+  <img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/MangoDB-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/HQL-white.svg?">
+</div>
+
+<h5 align="center">
+Design
+</h5>
+
+<div align="center">
+  <img height="20" src = "https://img.shields.io/badge/Adobe Photoshop-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/Adobe XD-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Adobe Premiere Pro-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Adobe After Effects-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Figma-white.svg?">
+</div>
+
 ***
-
 ![GitHub metrics](https://metrics.lecoq.io/NavindaFernando)
-
 ***
