@@ -22,26 +22,14 @@ Where to find me 🤙
 Programming skills
 </h3>
 
-<h5 align="center">
-Backend Dev
-</h5>
-
 <div align="center">
   <img height="20" src = "https://img.shields.io/badge/nodejs-white.svg?">  
 </div>
-
-<h5 align="center">
-Mobile Dev
-</h5>
 
 <div align="center">
   <img height="20" src = "https://img.shields.io/badge/Android-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/React native-white.svg?">  
 </div>
-
-<h5 align="center">
-Database
-</h5>
 
 <div align="center">
   <img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
@@ -49,20 +37,12 @@ Database
   <img height="20" src = "https://img.shields.io/badge/HQL-white.svg?">
 </div>
 
-<h5 align="center">
-Frontend Dev
-</h5>
-
 <div align="center">
   <img height="20" src = "https://img.shields.io/badge/HTML-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/CSS-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
 </div>
-
-<h5 align="center">
-Programming Languages
-</h5>
 
 <div align="center">
   <img height="20" src = "https://img.shields.io/badge/Java-white.svg?">
