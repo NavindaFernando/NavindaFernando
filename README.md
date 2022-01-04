@@ -31,7 +31,7 @@ Languages
   <img height="30" src = "https://img.shields.io/badge/Java-white.svg?&style=for-the-badge&logo=java&logoColor=black">
   <img height="30" src = "https://img.shields.io/badge/Python-white.svg?&style=for-the-badge&logo=python&logoColor=black">
   <img height="20" src = "https://img.shields.io/badge/Javascript-black.svg?">
-  <img height="20" src = "https://img.shields.io/badge/HTML-gray.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/HTML-EAEAEA.svg?">  
 
 </div>
 
