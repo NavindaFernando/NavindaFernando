@@ -38,12 +38,7 @@ Languages
   <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
  
-  <img height="20" src = "https://img.shields.io/badge/React native-white.svg?">  
-
-  <img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/MangoDB-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/HQL-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/nodejs-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/React native-white.svg?">    
 </div>
 
 <h4 align="center">
@@ -68,7 +63,18 @@ Dev environments
   <img height="20" src = "https://img.shields.io/badge/Geany-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Visual Studio-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Android Studio-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/nodejs-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Notepad++-white.svg?">
+</div>
+
+<h4 align="center">
+Database
+</h4>
+
+<div align="center">
+<img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/MangoDB-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/HQL-white.svg?">
 </div>
 
 <h4 align="center">
