@@ -22,11 +22,15 @@ Where to find me 🤙
 Skills
 </h3>
 
-<h4 align="center">
-Languages
-</h4>
-
 <div align="center">
+<details>
+<summary> <b>Languages</b>
+</summary>
+<div>
+ 
+  ####
+  
+</div>
   <img height="20" src = "https://img.shields.io/badge/Java-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Python-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Javascript-white.svg?">
@@ -38,26 +42,37 @@ Languages
   <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
  
-  <img height="20" src = "https://img.shields.io/badge/React native-white.svg?">    
-</div>
+  <img height="20" src = "https://img.shields.io/badge/React native-white.svg?"> 
 
-<h4 align="center">
-Design environments
-</h4>
+</div>
+</details>
 
 <div align="center">
+<details>
+<summary> <b>Design environments</b>
+</summary>
+<div>
+
+  ####
+  
+</div>
   <img height="20" src = "https://img.shields.io/badge/Adobe Photoshop-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/Adobe XD-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Adobe Premiere Pro-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Adobe After Effects-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Figma-white.svg?">
 </div>
-
-<h4 align="center">
-Dev environments
-</h4>
+</details>
 
 <div align="center">
+<details>
+<summary> <b>Dev environments</b>
+</summary>
+<div>
+
+  ####
+  
+</div>
   <img height="20" src = "https://img.shields.io/badge/Intellij idea-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/NetBeans-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Geany-white.svg?">
@@ -66,35 +81,37 @@ Dev environments
   <img height="20" src = "https://img.shields.io/badge/nodejs-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Notepad++-white.svg?">
 </div>
-
-<h4 align="center">
-Database
-</h4>
+</details>
 
 <div align="center">
-<img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
+<details>
+<summary> <b>Database</b>
+</summary>
+<div>
+
+  ####
+  
+</div>
+  <img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/MongoDB-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/HQL-white.svg?">
 </div>
-
-<h4 align="center">
-OS
-</h4>
+</details>
 
 <div align="center">
+<details>
+<summary> <b>OS</b>
+</summary>
+<div>
+
+  ####
+  
+</div>
   <img height="20" src = "https://img.shields.io/badge/Linux-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/Windows-white.svg?">
 </div>
+</details>
 
 ***
 ![GitHub metrics](https://metrics.lecoq.io/NavindaFernando)
 ***
-
-####
-
-<details>
-<summary> <i><b>Frontend Development 👈 </b></i>
-</summary>
-<div>
-
-#### 
