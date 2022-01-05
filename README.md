@@ -73,7 +73,7 @@ Database
 
 <div align="center">
 <img height="20" src = "https://img.shields.io/badge/MySQL-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/MangoDB-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/MongoDB-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/HQL-white.svg?">
 </div>
 
