@@ -81,7 +81,7 @@ Skills
 
 <div align="center">
 <details>
-<summary> <b>Framework</b>
+<summary> <b>Frameworks</b>
 </summary>
 <div>
 
