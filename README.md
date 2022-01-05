@@ -40,12 +40,6 @@ Skills
   <img height="20" src = "https://img.shields.io/badge/CSS-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/C-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/C++-white.svg?">
-  
-  <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
- 
-  <img height="20" src = "https://img.shields.io/badge/React native-white.svg?"> 
-
 </div>
 </details>
 
@@ -87,6 +81,20 @@ Skills
 
 <div align="center">
 <details>
+<summary> <b>Framework</b>
+</summary>
+<div>
+
+  ####
+  
+</div>
+  <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
+</div>
+</details>
+
+<div align="center">
+<details>
 <summary> <b>Database</b>
 </summary>
 <div>
@@ -113,5 +121,5 @@ Skills
   <img height="20" src = "https://img.shields.io/badge/Windows-white.svg?">
 </div>
 </details>
-
+ 
 ***
