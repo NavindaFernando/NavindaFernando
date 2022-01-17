@@ -17,8 +17,6 @@ Where to find me 🤙
 </div>
 
 ***
-![GitHub metrics](https://metrics.lecoq.io/NavindaFernando)
-***
 
 <h3 align="center">
 Skills
@@ -123,3 +121,7 @@ Skills
 </details>
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavindaFernando" alt="NavindaFernando" /></a> </p>
+
+***
+![GitHub metrics](https://metrics.lecoq.io/NavindaFernando)
+***
