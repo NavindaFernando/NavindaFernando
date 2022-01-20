@@ -16,6 +16,12 @@ Where to find me 🤙
 <img height="25" src = "https://img.shields.io/badge/dribbble-white.svg?&style=for-the-badge&logo=dribbble&logoColor=black">
 </div>
 
+
+[Facebook]: https://www.facebook.com/navinda.shamal/
+[WhatsApp]: https://wa.me/0775919052
+[Twitter]: https://twitter.com/navindashamal
+[Instragram]: https://www.instagram.com/uiux.lk/
+
 ***
 
 <h3 align="center">
