@@ -79,7 +79,7 @@ Skills
 
 <div align="center">
 <details>
-<summary> <b>Frameworks</b>
+<summary> <b>Frameworks & libs</b>
 </summary>
 <div>
 
