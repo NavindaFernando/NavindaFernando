@@ -79,20 +79,6 @@ Skills
 
 <div align="center">
 <details>
-<summary> <b>Frameworks & libs</b>
-</summary>
-<div>
-
-  ####
-  
-</div>
-  <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
-</div>
-</details>
-
-<div align="center">
-<details>
 <summary> <b>Database</b>
 </summary>
 <div>
@@ -118,6 +104,22 @@ Skills
   <img height="20" src = "https://img.shields.io/badge/Linux-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/Windows-white.svg?">
 </div>
+</details>
+ 
+ <div align="center">
+<details>
+<summary> <b>Frameworks & libs</b>
+</summary>
+<div>
+
+  ####
+  
+</div>
+  <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
+ <img height="20" src = "https://img.shields.io/badge/Jquery-white.svg?">  
+
+ </div>
 </details>
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavindaFernando" alt="NavindaFernando" /></a> </p>
