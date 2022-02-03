@@ -117,8 +117,9 @@ Skills
 </div>
   <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/React-white.svg?">  
- <img height="20" src = "https://img.shields.io/badge/Jquery-white.svg?">  
-
+  <img height="20" src = "https://img.shields.io/badge/Jquery-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/Angular-white.svg?">  
+ 
  </div>
 </details>
  
