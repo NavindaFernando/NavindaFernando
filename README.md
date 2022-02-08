@@ -138,7 +138,7 @@ Skills
 
 <div align="center">
 
- ![hacker-unscreen](https://user-images.githubusercontent.com/86073690/152986834-c74da182-2e22-40c3-b03e-27fae3862114.gif)
+ ![hacker-unscreen (1)](https://user-images.githubusercontent.com/86073690/152995018-8f7e93cc-054c-4dae-9de8-7c40e341153a.gif)
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=23&width=450&lines=Software+Developer+And+Designer)](https://git.io/typing-svg)
  
