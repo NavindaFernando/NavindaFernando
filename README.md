@@ -17,6 +17,8 @@ Where to find me 🤙
  
 </div>
 
+***
+
 <h3 align="center">
 Skills
 </h3>
