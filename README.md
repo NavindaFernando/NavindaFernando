@@ -140,6 +140,8 @@ Skills
 
  ![hacker-unscreen](https://user-images.githubusercontent.com/86073690/152986834-c74da182-2e22-40c3-b03e-27fae3862114.gif)
  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=25&width=450&lines=Software+Developer+And+Designer+%F0%9F%96%A4%F0%9F%A4%8D)](https://git.io/typing-svg)
+ 
 </div>
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavindaFernando" alt="NavindaFernando" /></a> </p>
