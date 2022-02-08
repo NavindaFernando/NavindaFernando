@@ -14,9 +14,9 @@ Where to find me 🤙
 <img height="25" src = "https://img.shields.io/badge/instragram-white.svg?&style=for-the-badge&logo=instagram&logoColor=black">
 <img height="25" src = "https://img.shields.io/badge/behance-white.svg?&style=for-the-badge&logo=behance&logoColor=black">
 <img height="25" src = "https://img.shields.io/badge/dribbble-white.svg?&style=for-the-badge&logo=dribbble&logoColor=black">
-</div>
 
-***
+![dev animation](https://user-images.githubusercontent.com/86073690/152967793-d6391591-f592-46bf-b322-581141fa9ded.gif)
+</div>
 
 <h3 align="center">
 Skills
@@ -141,3 +141,5 @@ Skills
 
 ***
 ![GitHub metrics](https://metrics.lecoq.io/NavindaFernando)
+
+
