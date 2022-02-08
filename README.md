@@ -15,8 +15,6 @@ Where to find me 🤙
 <img height="25" src = "https://img.shields.io/badge/behance-white.svg?&style=for-the-badge&logo=behance&logoColor=black">
 <img height="25" src = "https://img.shields.io/badge/dribbble-white.svg?&style=for-the-badge&logo=dribbble&logoColor=black">
  
- ![hacker-unscreen](https://user-images.githubusercontent.com/86073690/152986834-c74da182-2e22-40c3-b03e-27fae3862114.gif)
- 
 </div>
 
 <h3 align="center">
@@ -137,6 +135,12 @@ Skills
  
  </div>
 </details>
+
+<div align="center">
+
+ ![hacker-unscreen](https://user-images.githubusercontent.com/86073690/152986834-c74da182-2e22-40c3-b03e-27fae3862114.gif)
+ 
+</div>
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NavindaFernando" alt="NavindaFernando" /></a> </p>
 
