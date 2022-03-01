@@ -97,21 +97,6 @@ Skills
 
 <div align="center">
 <details>
-<summary> <b>OS</b>
-</summary>
-<div>
-
-  ####
-  
-</div>
-  <img height="20" src = "https://img.shields.io/badge/Linux-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/Windows-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/Mac-white.svg?">
-</div>
-</details>
-
-<div align="center">
-<details>
 <summary> <b>ORM tools</b>
 </summary>
 <div>
@@ -123,7 +108,23 @@ Skills
   <img height="20" src = "https://img.shields.io/badge/Mybatis-white.svg?">   
  </div>
 </details>
- 
+
+<div align="center">
+<details>
+<summary> <b>OS</b>
+</summary>
+<div>
+
+  ####
+  
+</div>
+  <img height="20" src = "https://img.shields.io/badge/Linux-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/Windows-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Mac-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Android-white.svg?">
+</div>
+</details>
+
  <div align="center">
 <details>
 <summary> <b>Frameworks & libs</b>
