@@ -37,6 +37,7 @@ Skills
   <img height="20" src = "https://img.shields.io/badge/C++-white.svg?"> 
   <img height="20" src = "https://img.shields.io/badge/Kotlin-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Swift-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Php-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Javascript-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Html-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/Css-white.svg?">
