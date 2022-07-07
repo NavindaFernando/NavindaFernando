@@ -38,28 +38,10 @@ Skills
   <img height="20" src = "https://img.shields.io/badge/Kotlin-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Swift-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Php-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Typescript-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Javascript-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Html-white.svg?">  
   <img height="20" src = "https://img.shields.io/badge/Css-white.svg?">
-</div>
-</details>
-
-<div align="center">
-<details>
-<summary> <b>Design environments</b>
-</summary>
-<div>
-
-  ####
-  
-</div>
-  <img height="20" src = "https://img.shields.io/badge/Adobe Photoshop-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/Adobe Premiere Pro-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/Adobe After Effects-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/Adobe illustrator-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/Adobe XD-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/Figma-white.svg?">
-
 </div>
 </details>
 
@@ -78,6 +60,26 @@ Skills
   <img height="20" src = "https://img.shields.io/badge/Android Studio-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Nodejs-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/NetBeans-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/CodeBlocks-white.svg?">
+</div>
+</details>
+
+<div align="center">
+<details>
+<summary> <b>Design environments</b>
+</summary>
+<div>
+
+  ####
+  
+</div>
+  <img height="20" src = "https://img.shields.io/badge/Photoshop-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/Premiere Pro-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/After Effects-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/illustrator-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/XD-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Figma-white.svg?">
+
 </div>
 </details>
 
@@ -135,11 +137,11 @@ Skills
   ####
   
 </div>
-  <img height="20" src = "https://img.shields.io/badge/Spring-white.svg?">
   <img height="20" src = "https://img.shields.io/badge/Bootstrap-white.svg?">
-  <img height="20" src = "https://img.shields.io/badge/React js-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/Jquery-white.svg?">  
-  <img height="20" src = "https://img.shields.io/badge/Angular-white.svg?">  
+  <img height="20" src = "https://img.shields.io/badge/Spring-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/React js-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Angular-white.svg?">
+  <img height="20" src = "https://img.shields.io/badge/Jquery-white.svg?">   
  
  </div>
 </details>
