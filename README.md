@@ -2,4 +2,4 @@
 
 - Tinkering with interactions on <a href="https://codepen.io/NavindaFernando"> Codepen</a> :ant:
 - Sharing updates on <a href="https://www.linkedin.com/in/.../">LinkedIn</a> :penguin:
-- Inspiration for ui ux designers on <a href="https://www.instagram.com/uiux.lk/">Instagram</a> :confetti_ball:
+- Inspiration for uiux designers on <a href="https://www.instagram.com/uiux.lk/">Instagram</a> :confetti_ball:
