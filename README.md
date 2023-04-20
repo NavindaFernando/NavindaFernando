@@ -1,1 +1,1 @@
-![Home (2)](https://user-images.githubusercontent.com/86073690/219943308-80915607-f9a7-4542-a0ba-ab1825f6a573.jpg)
+![Home](https://user-images.githubusercontent.com/86073690/233351976-a7a0d0c9-04e1-4fe5-b2ec-a76df69915f9.png)
